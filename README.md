@@ -1,7 +1,7 @@
 # HWDP: Hybrid Worker Delta-Time Production
 **License:** MIT
 HWDP is a headless, data-oriented simulation framework built for Godot 4 sandbox RPGs, grand strategy games, or space sims. It manages background economics, autonomous faction logic, and world events asynchronously so you can run thousands of simulated NPCs, trading caravans, and factions without destroying your rendering frame rate.
-> 🇵🇱 **A Quick Note on the Name:**Tak, wiem xd.
+> 🇵🇱 **A Quick Note on the Name:** Tak, wiem xd.
 ---
 ## Core System Mechanics
 The framework is built around four fundamental engineering choices designed to stop Godot's main scene tree loop from choking on macro-simulation math.
